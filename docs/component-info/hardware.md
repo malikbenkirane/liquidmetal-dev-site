@@ -69,7 +69,7 @@ If no disk is passed, the script will attempt to detect one which is available.
 Run `./provision.sh --help` for all options.
 
 [provision]: https://github.com/liquidmetal-dev/flintlock/tree/main/hack/scripts#provisionsh
-[fc]: https://github.com/weaveworks/firecracker/releases
+[fc]: https://github.com/firecracker-microvm/firecracker/releases
 [flint]: https://github.com/liquidmetal-dev/flintlock/releases
 [service]: https://github.com/liquidmetal-dev/flintlock/blob/main/flintlockd.service
 [containerd]: https://github.com/containerd/containerd/releases

@@ -10,7 +10,7 @@ into MicroVMs as kernel and OS volumes.
 Download the all-in-one provision script:
 
 ```bash
-wget https://raw.githubusercontent.com/weaveworks-liquidmetal/flintlock/main/hack/scripts/provision.sh
+wget https://raw.githubusercontent.com/liquidmetal-dev/flintlock/main/hack/scripts/provision.sh
 chmod +x provision.sh
 ```
 

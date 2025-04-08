@@ -7,7 +7,7 @@ Understanding common `containerd` errors.
 Containerd logs can be watched by running:
 
 ```bash
-journatctl -fu containerd.service
+journalctl -fu containerd.service
 ```
 
 After creating MicroVMs, use `ctr` to inspect artifacts:

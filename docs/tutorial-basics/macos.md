@@ -21,7 +21,7 @@ Install both these tools, create a new working directory, and fetch the tutorial
 ```bash
 mkdir lm-tutorial
 cd !$
-wget https://raw.githubusercontent.com/weaveworks-liquidmetal/flintlock/main/Vagrantfile
+wget https://raw.githubusercontent.com/liquidmetal-dev/flintlock/main/Vagrantfile
 ```
 
 Start the machine:
