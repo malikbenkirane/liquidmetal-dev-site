@@ -57,7 +57,7 @@ reboot the Pi and try again afterwards.
 We will use a script to bootstrap the rest. Download it onto each board:
 
 ```bash
-wget https://raw.githubusercontent.com/weaveworks-liquidmetal/flintlock/main/hack/scripts/provision.sh
+wget https://raw.githubusercontent.com/liquidmetal-dev/flintlock/main/hack/scripts/provision.sh
 chmod +x provision.sh
 ```
 
