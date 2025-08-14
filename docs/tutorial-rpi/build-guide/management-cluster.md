@@ -55,7 +55,7 @@ repo.
 cat << EOF >~/.cluster-api/clusterctl.yaml
 providers:
   - name: "microvm"
-    url: "https://github.com/liquidmetal-dev/cluster-api-provider-microvm/releases/$CAPMVM_VERSION/infrastructure-components.yaml"
+    url: "https://github.com/liquidmetal-dev/cluster-api-provider-microvm/releases/download/$CAPMVM_VERSION/infrastructure-components.yaml"
     type: "InfrastructureProvider"
 EOF
 ```
